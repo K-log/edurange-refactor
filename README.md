@@ -34,7 +34,7 @@ bundle install
 
 *ANYTHING BELOW THIS POINT HAS NOT BEEN FULLY TESTED AND IS STILL A WORK IN PROGRESS*
 
-## II. (*Optional*) Install and setup MySql 
+## III. (*Optional*) Install and setup MySql 
 
   Below is a link with full instructions for setting up the database but not populating it with data.
   Make sure to ignore the section about creating a new rails application.
